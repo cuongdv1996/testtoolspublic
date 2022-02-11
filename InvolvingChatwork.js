@@ -6,7 +6,7 @@
  const BUTTON_SWITCH_ROOM_SELECTOR = 'sidebarSwitch button';
  const ROOM_LIST_CONTAINER_SELECTOR = '_roomListContainer div[tabindex="0"]';
  
- const BLACK_ID_LIST_FILE_URL = 'http://192.168.104.38/V5.14/Test/Web.PaymentTest/blackListIds.txt';
+ const BLACK_ID_LIST_FILE_URL = 'https://raw.githubusercontent.com/cuongdv1996/testtoolspublic/main/blackListIds.txt';
 
  /**
   * Main
